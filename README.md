@@ -1,5 +1,7 @@
 # SQL-task.
+
 Employee table
+
 
 ![SQL1](https://github.com/ajaypal321/SQL-task./assets/136219483/66824fe1-081b-4c5b-8b94-fdae451e54da)
 
